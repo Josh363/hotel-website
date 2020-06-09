@@ -1,0 +1,14 @@
+.box-container {
+  display: flex;
+  width: 100%;
+}
+
+.container1 {
+  width: 50%;
+}
+
+.container2 {
+  display: flex;
+  width: 50%;
+  justify-content: flex-end;
+}
