@@ -1,0 +1,37 @@
+/*Nav */
+#navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+#navbar ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Showcase */
+#showcase .showcase-content {
+    padding-top: 80px;
+  }
+
+/* Home Info */
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    width: 100%;
+}
+
+/* Features */
+#features {
+    display: flex;
+    flex-direction: column;
+  }
+
+.box {
+    width: 100%;
+}
